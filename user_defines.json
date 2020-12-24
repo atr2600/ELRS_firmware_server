@@ -1,0 +1,20 @@
+{
+  "MY_BINDING_PHRASE": "default ExpressLRS binding phrase",
+  "regulatory": "-DRegulatory_Domain_FCC_915",
+  "HYBRID_SWITCHES_8": "False",
+  "FAST_SYNC": "True",
+  "R9M_UNLOCK_HIGHER_POWER": "False",
+  "NO_SYNC_ON_ARM": "False",
+  "ARM_CHANNEL=AUX1": "False",
+  "FEATURE_OPENTX_SYNC": "True",
+  "FEATURE_OPENTX_SYNC_AUTOTUNE": "False",
+  "LOCK_ON_FIRST_CONNECTION": "False",
+  "LOCK_ON_50HZ": "False",
+  "UART_INVERTED": "True",
+  "USE_R9MM_R9MINI_SBUS": "False",
+  "AUTO_WIFI_ON_BOOT": "True",
+  "USE_ESP8266_BACKPACK": "False",
+  "JUST_BEEP_ONCE": "False",
+  "MY_STARTUP_MELODY": "B5 16 P16 B5 16 P16 B5 16 P16 B5 2 G5 2 A5 2 B5 8 P4 A5 8 B5 1|140|-3",
+  "USE_500HZ": "False"
+}
